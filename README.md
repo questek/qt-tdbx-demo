@@ -4,11 +4,11 @@ Developed by
 <a href="https://www.questek.com" target="_blank">
   <img alt="QuesTek Innovations LLC" src="https://imgur.com/Zy3AdNP.jpg" width=300/>
 </a>
-
+<br><br>
 
 Funded by SBIR Award DE-SC0017234 from
 
-<img alt="Department of Energy" src="https://science.osti.gov/assets/img/doe-logos/logo.png" width=300 />
+<img alt="Department of Energy" src="https://imgur.com/6MPXvkq.png" width=300 />
 
 ## About TDBX (`.tdbx`) and `qt-tdbx`
 TDBX (`.tdbx`) is a file format based on the commonly used `.tdb` (thermodynamic database) files, enabling UQ features in CALPHAD. The concept of TDBX is straightforward: it attaches UQ traces to the end of the original `.tdb` file as commented lines in a pre-defined format to allow convenient CALPHAD UQ calculations, like this:
