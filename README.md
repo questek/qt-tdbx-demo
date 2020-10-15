@@ -51,5 +51,11 @@ Two options to use the package:
 
 See the Jupyter Notebook file: Example.ipynb
 
+## Citation
+
+If you use this package, please consider citing:
+
+* Lin, Y., Saboo, A., Frey, R. et al. CALPHAD Uncertainty Quantification and TDBX. JOM (2020). https://doi.org/10.1007/s11837-020-04405-z
+
 ## License
 This project is licensed under the Apache 2.0 License, see the [LICENSE](https://github.com/questek/qt-tdbx-demo/blob/master/LICENSE) file for details.
